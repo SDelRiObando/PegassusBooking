@@ -1,0 +1,22 @@
+﻿@using PegassusBooking.Utilities
+@model Areas_Doctors_Views_Home_Index
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_DoctorsLayout.cshtml";
+}
+
+<h2>Welcome to the Doctor Dashboard</h2>
+
+<div>
+    <h3>Upcoming Appointments</h3>
+    <!-- Display a list of upcoming appointments for the doctor -->
+    <!-- You can customize this based on your data model and requirements -->
+    <!-- Example: -->
+    <ul>
+        <li>Appointment 1 - Date and Time</li>
+        <li>Appointment 2 - Date and Time</li>
+        <!-- Add more items as needed -->
+    </ul>
+    <a asp-area="Doctor" asp-controller="Appointments" asp-action="Index">View All Appointments</a>
+    <a asp-area="Doctor" asp-controller="Appointments" asp-action="Create">Create New Appointment</a>
+</div>

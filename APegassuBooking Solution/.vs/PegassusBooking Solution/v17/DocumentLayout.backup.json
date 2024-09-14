@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{375CD0E5-4D22-464A-AF2B-DF3192FF1D31}|PegassuBooking.Web\\PegassusBooking.Web.csproj|c:\\users\\santiago\\documents\\github\\swe2023\\202308group1-repo\\apegassubooking solution\\pegassubooking.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375CD0E5-4D22-464A-AF2B-DF3192FF1D31}|PegassuBooking.Web\\PegassusBooking.Web.csproj|solutionrelative:pegassubooking.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCC31E2-DEB3-4C37-8900-03F5343AE453}|PeggassusBooking.View\\PegassusBooking.View.csproj|c:\\users\\santiago\\documents\\github\\swe2023\\202308group1-repo\\apegassubooking solution\\peggassusbooking.view\\appointmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCC31E2-DEB3-4C37-8900-03F5343AE453}|PeggassusBooking.View\\PegassusBooking.View.csproj|solutionrelative:peggassusbooking.view\\appointmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEBE7C2-CF3F-422F-A6E2-8F70ACA5DFD5}|PegassusBooking.Utilities\\PegassusBooking.Utilities.csproj|c:\\users\\santiago\\documents\\github\\swe2023\\202308group1-repo\\apegassubooking solution\\pegassusbooking.utilities\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEBE7C2-CF3F-422F-A6E2-8F70ACA5DFD5}|PegassusBooking.Utilities\\PegassusBooking.Utilities.csproj|solutionrelative:pegassusbooking.utilities\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375CD0E5-4D22-464A-AF2B-DF3192FF1D31}|PegassuBooking.Web\\PegassusBooking.Web.csproj|c:\\users\\santiago\\documents\\github\\swe2023\\202308group1-repo\\apegassubooking solution\\pegassubooking.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{375CD0E5-4D22-464A-AF2B-DF3192FF1D31}|PegassuBooking.Web\\PegassusBooking.Web.csproj|solutionrelative:pegassubooking.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375CD0E5-4D22-464A-AF2B-DF3192FF1D31}|PegassuBooking.Web\\PegassusBooking.Web.csproj|c:\\users\\santiago\\documents\\github\\swe2023\\202308group1-repo\\apegassubooking solution\\pegassubooking.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375CD0E5-4D22-464A-AF2B-DF3192FF1D31}|PegassuBooking.Web\\PegassusBooking.Web.csproj|solutionrelative:pegassubooking.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375CD0E5-4D22-464A-AF2B-DF3192FF1D31}|PegassuBooking.Web\\PegassusBooking.Web.csproj|c:\\users\\santiago\\documents\\github\\swe2023\\202308group1-repo\\apegassubooking solution\\pegassubooking.web\\pegassusbooking.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{375CD0E5-4D22-464A-AF2B-DF3192FF1D31}|PegassuBooking.Web\\PegassusBooking.Web.csproj|solutionrelative:pegassubooking.web\\pegassusbooking.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBC74A2-B546-43A6-9D5C-3AC51B59474D}|PegassusBookingModels\\PegassusBooking.Models.csproj|c:\\users\\santiago\\documents\\github\\swe2023\\202308group1-repo\\apegassubooking solution\\pegassusbookingmodels\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDBC74A2-B546-43A6-9D5C-3AC51B59474D}|PegassusBookingModels\\PegassusBooking.Models.csproj|solutionrelative:pegassusbookingmodels\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375CD0E5-4D22-464A-AF2B-DF3192FF1D31}|PegassuBooking.Web\\PegassusBooking.Web.csproj|c:\\users\\santiago\\documents\\github\\swe2023\\202308group1-repo\\apegassubooking solution\\pegassubooking.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{375CD0E5-4D22-464A-AF2B-DF3192FF1D31}|PegassuBooking.Web\\PegassusBooking.Web.csproj|solutionrelative:pegassubooking.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375CD0E5-4D22-464A-AF2B-DF3192FF1D31}|PegassuBooking.Web\\PegassusBooking.Web.csproj|c:\\users\\santiago\\documents\\github\\swe2023\\202308group1-repo\\apegassubooking solution\\pegassubooking.web\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{375CD0E5-4D22-464A-AF2B-DF3192FF1D31}|PegassuBooking.Web\\PegassusBooking.Web.csproj|solutionrelative:pegassubooking.web\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13E37EE-A88D-4FDA-BA1C-E7CFC447DA53}|PegassusBooking.Services\\PegassusBooking.Services.csproj|c:\\users\\santiago\\documents\\github\\swe2023\\202308group1-repo\\apegassubooking solution\\pegassusbooking.services\\iappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13E37EE-A88D-4FDA-BA1C-E7CFC447DA53}|PegassusBooking.Services\\PegassusBooking.Services.csproj|solutionrelative:pegassusbooking.services\\iappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B46B00-D058-4E67-A839-C60F56CE9F68}|PegassusBooking.Repositories\\PegassusBooking.Repositories.csproj|c:\\users\\santiago\\documents\\github\\swe2023\\202308group1-repo\\apegassubooking solution\\pegassusbooking.repositories\\migrations\\20231204100202_sunday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B46B00-D058-4E67-A839-C60F56CE9F68}|PegassusBooking.Repositories\\PegassusBooking.Repositories.csproj|solutionrelative:pegassusbooking.repositories\\migrations\\20231204100202_sunday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B46B00-D058-4E67-A839-C60F56CE9F68}|PegassusBooking.Repositories\\PegassusBooking.Repositories.csproj|c:\\users\\santiago\\documents\\github\\swe2023\\202308group1-repo\\apegassubooking solution\\pegassusbooking.repositories\\implementations\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B46B00-D058-4E67-A839-C60F56CE9F68}|PegassusBooking.Repositories\\PegassusBooking.Repositories.csproj|solutionrelative:pegassusbooking.repositories\\implementations\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375CD0E5-4D22-464A-AF2B-DF3192FF1D31}|PegassuBooking.Web\\PegassusBooking.Web.csproj|c:\\users\\santiago\\documents\\github\\swe2023\\202308group1-repo\\apegassubooking solution\\pegassubooking.web\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375CD0E5-4D22-464A-AF2B-DF3192FF1D31}|PegassuBooking.Web\\PegassusBooking.Web.csproj|solutionrelative:pegassubooking.web\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375CD0E5-4D22-464A-AF2B-DF3192FF1D31}|PegassuBooking.Web\\PegassusBooking.Web.csproj|c:\\users\\santiago\\documents\\github\\swe2023\\202308group1-repo\\apegassubooking solution\\pegassubooking.web\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{375CD0E5-4D22-464A-AF2B-DF3192FF1D31}|PegassuBooking.Web\\PegassusBooking.Web.csproj|solutionrelative:pegassubooking.web\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375CD0E5-4D22-464A-AF2B-DF3192FF1D31}|PegassuBooking.Web\\PegassusBooking.Web.csproj|c:\\users\\santiago\\documents\\github\\swe2023\\202308group1-repo\\apegassubooking solution\\pegassubooking.web\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{375CD0E5-4D22-464A-AF2B-DF3192FF1D31}|PegassuBooking.Web\\PegassusBooking.Web.csproj|solutionrelative:pegassubooking.web\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 497,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\PegassuBooking.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PegassuBooking.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\PegassuBooking.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PegassuBooking.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T06:52:16.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\PegassuBooking.Web\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "PegassuBooking.Web\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\PegassuBooking.Web\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "PegassuBooking.Web\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T06:52:02.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\PeggassusBooking.View\\AppointmentViewModel.cs",
+              "RelativeDocumentMoniker": "PeggassusBooking.View\\AppointmentViewModel.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\PeggassusBooking.View\\AppointmentViewModel.cs",
+              "RelativeToolTip": "PeggassusBooking.View\\AppointmentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:51:58.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\PegassusBooking.Utilities\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "PegassusBooking.Utilities\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\PegassusBooking.Utilities\\DbInitializer.cs",
+              "RelativeToolTip": "PegassusBooking.Utilities\\DbInitializer.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwDsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T02:39:52.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\PegassuBooking.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PegassuBooking.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\PegassuBooking.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PegassuBooking.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:52:30.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\PegassuBooking.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "PegassuBooking.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\PegassuBooking.Web\\appsettings.json",
+              "RelativeToolTip": "PegassuBooking.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-11T06:53:50.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\PegassuBooking.Web\\Program.cs",
+              "RelativeDocumentMoniker": "PegassuBooking.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\PegassuBooking.Web\\Program.cs",
+              "RelativeToolTip": "PegassuBooking.Web\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T18:45:22.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PegassusBooking.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\PegassuBooking.Web\\PegassusBooking.Web.csproj",
+              "RelativeDocumentMoniker": "PegassuBooking.Web\\PegassusBooking.Web.csproj",
+              "ToolTip": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\PegassuBooking.Web\\PegassusBooking.Web.csproj",
+              "RelativeToolTip": "PegassuBooking.Web\\PegassusBooking.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-09T18:45:16.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAppointment.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\PegassusBooking.Services\\IAppointment.cs",
+              "RelativeDocumentMoniker": "PegassusBooking.Services\\IAppointment.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\PegassusBooking.Services\\IAppointment.cs",
+              "RelativeToolTip": "PegassusBooking.Services\\IAppointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T02:39:45.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\PegassusBookingModels\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "PegassusBookingModels\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\PegassusBookingModels\\ApplicationUser.cs",
+              "RelativeToolTip": "PegassusBookingModels\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T02:36:20.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20231204100202_Sunday.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\PegassusBooking.Repositories\\Migrations\\20231204100202_Sunday.cs",
+              "RelativeDocumentMoniker": "PegassusBooking.Repositories\\Migrations\\20231204100202_Sunday.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\PegassusBooking.Repositories\\Migrations\\20231204100202_Sunday.cs",
+              "RelativeToolTip": "PegassusBooking.Repositories\\Migrations\\20231204100202_Sunday.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T02:39:19.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\PegassusBooking.Repositories\\Implementations\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "PegassusBooking.Repositories\\Implementations\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\PegassusBooking.Repositories\\Implementations\\UnitOfWork.cs",
+              "RelativeToolTip": "PegassusBooking.Repositories\\Implementations\\UnitOfWork.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T02:38:11.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\PegassuBooking.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "PegassuBooking.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\PegassuBooking.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "PegassuBooking.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T02:35:19.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\PegassuBooking.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "PegassuBooking.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\PegassuBooking.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "PegassuBooking.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-16T02:35:14.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ForgotPasswordConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\PegassuBooking.Web\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "PegassuBooking.Web\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\Santiago\\Documents\\GitHub\\SWE2023\\202308Group1-repo\\APegassuBooking Solution\\PegassuBooking.Web\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeToolTip": "PegassuBooking.Web\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-16T02:35:08.904Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

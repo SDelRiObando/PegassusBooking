@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PegassuBooking.web/1.0.0": {
+        "runtime": {
+          "PegassuBooking.web.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PegassuBooking.web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

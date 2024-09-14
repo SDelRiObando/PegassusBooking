@@ -1,0 +1,51 @@
+﻿@model IEnumerable<PegassusBooking.View.AppointmentViewModel>
+
+@{
+    ViewData["Title"] = "Select";
+    Layout = "~/Views/Shared/_PatientsLayout.cshtml";
+}
+
+<h1>Select</h1>
+
+<form asp-action="Select" method="post">
+    <table class="table">
+        <thead>
+            <tr>
+                <!-- Your table headers remain the same -->
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        <input type="radio" name="selectedAppointmentId" value="@item.Id" />
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Number)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Type)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ScheduledDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Duration)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Status)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Doctor.FirstName) @Html.DisplayFor(modelItem => item.Doctor.LastName)
+                    </td>
+                    <input type="hidden" name="selectedAppointmentId" value="@item.Id" />
+                    <td>
+                        <!-- You can use a submit button to submit the form -->
+                        <button type="submit" class="btn btn-link">Select</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</form>
